@@ -1,4 +1,4 @@
-package ryanspenser.simpleui;
+package ryanspenser.filemanipulator;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
